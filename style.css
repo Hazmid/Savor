@@ -7,11 +7,7 @@
 }
 
 body {
-  width: 100%;
-  background: linear-gradient(to right top, #e6875b, #3e6765); 
-  background: -webkit-linear-gradient(to right top, #e6875b, #3e6765);
   font-family: 'Cantarell', sans-serif;
-  font-family: 'Times New Roman', Times, serif;
 }
 
 .times {
